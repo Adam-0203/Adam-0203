@@ -38,7 +38,8 @@
 ## 🤝 Let’s Connect  
 
 - 📫 Reach me by email: **hajjajiadam.23@gmail.com**  
-- 💼 Open to collaborations on **data science, programming projects.**  
+- 💼 Open to collaborations on **data science, programming projects.**
+- 💼 My LinkedIn : **https://www.linkedin.com/in/adam-hajjaji-053a36308/**
 
 ---
 ✨ *"Perseverance, adaptability, and curiosity are my biggest tools to learn, build, and innovate."*  
