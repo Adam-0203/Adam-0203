@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hey, I'm Adam  
 
-<!--
-**Adam-0203/Adam-0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Passionate about **Computer Science**, **Data Science** and **Statistics**.  
+💡 I love tackling problems from scratch, analyzing data, and finding meaningful insights.  
+🌍 Currently studying **Computer Science Engineering** at **UM6P – College of Computing (Morocco)**, one of the most prestigious schools in Africa.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+
+- 📚 Strong foundation in **mathematics, physics, and computer science**  
+- 💻 Skilled in **Python (OOP, algorithms, data structures, problem-solving)**, **C**,**C++**, **Web Development (HTML, CSS, JavaScript, SQL, relational databases)**  
+- ⚡ Deep understanding of **low-level computing** (bits, bytes, transistors, memory, smart pointers)  
+- 📊 Enthusiastic about **statistics, logical reasoning, and data analysis**  
+- 🎤 Comfortable with **public speaking, presenting, and collaborating**  
+- 🧠 Curious about **quantum computing** and its potential to reshape technology  
+
+---
+
+## 🔧 Tech & Tools  
+
+- **Languages:** Python | C | C++ | SQL | JavaScript  
+- **Frameworks & Tools:** Vue 3 (Composition API), Firebase, Vite  
+- **Other Skills:** Algorithms, Data Structures, Error Handling, Regex, Electronics basics  
+
+---
+
+## 🏆 Highlights  
+
+- 🏅 Cambridge University **C1 English Certificate**  
+- 🧬 National Biology Olympiad **Finalist (Top 20 nationwide)**  
+- 🎓 Strong academic background in **physics, thermodynamics, chemistry, literature**  
+- 🎥 Assisted tech entrepreneurs’ conferences at UM6P during **Science Week**, creating summary videos  
+- 🔬 Worked on **embedded systems** (UK-based project) analyzing impulse frequency patterns  
+
+---
+
+## 🤝 Let’s Connect  
+
+- 📫 Reach me by email: **hajjajiadam.23@gmail.com**  
+- 💼 Open to collaborations on **data science, programming projects.**  
+
+---
+✨ *"Perseverance, adaptability, and curiosity are my biggest tools to learn, build, and innovate."*  
