@@ -19,7 +19,7 @@
 
 ## 🔧 Tech & Tools  
 
-- **Languages:** Python | C | C++ | SQL | JavaScript  
+- **Languages:** Python | C | C++ | SQL | JavaScript | Java | Go
 - **Frameworks & Tools:** Vue 3 (Composition API), Firebase, Vite  
 - **Other Skills:** Algorithms, Data Structures, Error Handling, Regex, Electronics basics  
 
