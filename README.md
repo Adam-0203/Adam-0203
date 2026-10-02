@@ -33,7 +33,7 @@
 
 ## 🔧 Tech & Tools
 
-- **Languages:** Python · Go · C · C++ · Java · SQL · JavaScript
+- **Languages:** Python · Go · C · C++ · Java · SQL · JavaScript · HTML/CSS/JavaScript
 - **Data Science:** Pandas · NumPy · Scikit-learn · Seaborn · Matplotlib · Bayesian Statistics · Time Series (ARIMA, LSTM)
 - **Web & Frameworks:** Django · Vue 3 · Firebase · Vite
 - **Tools:** Jupyter · Git · Linux · PostgreSQL · Docker
