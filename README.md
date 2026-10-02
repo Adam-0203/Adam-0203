@@ -64,7 +64,3 @@
 - 💼 **LinkedIn:** [linkedin.com/in/adam-hajjaji](https://www.linkedin.com/in/adam-hajjaji-053a36308/)
 - 🐙 **GitHub:** [github.com/Adam-0203](https://github.com/Adam-0203)
 - 🧩 **LeetCode:** [leetcode.com/u/Adam-0203](https://leetcode.com/u/Adam-0203/)
-
----
-
-✨ *"Perseverance, adaptability, and curiosity are my biggest tools to learn, build, and innovate."*
