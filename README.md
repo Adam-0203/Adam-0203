@@ -53,8 +53,7 @@
 
 ## 📈 Currently
 
-- 🔭 Deepening my **Bayesian** and **time series** toolkit
-- 🌱 Exploring **LLM-powered pipelines** and applied ML in real projects
+- 🔭 Deepening my skills
 - 🎯 Looking for a **Data Science internship** (June–September)
 
 ---
