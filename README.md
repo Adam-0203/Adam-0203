@@ -24,11 +24,6 @@
 - Mapped each data characteristic to its best-performing method
 - Designed a **Bayesian adjustment** integrating exogenous variables into forecasts
 
-### 🤖 Machine Learning Projects — *Laptop Price & Titanic Survival*
-- End-to-end EDA with **Pandas** and **Seaborn**
-- Cut Laptop Price **RMSE from 653.6 → 339.1** through feature refinement
-- Trained regression and classification models with **Scikit-learn**
-
 ### 💬 YouTube Comment AI Summarizer
 - **Go** pipeline fetching comments + LLM APIs for summarization
 - Concurrent batch processing → insights in **under 10 seconds**
