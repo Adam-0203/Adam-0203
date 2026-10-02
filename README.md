@@ -53,7 +53,7 @@
 
 ## 📈 Currently
 
-- 🔭 Deepening my skills
+- 🔭 Diversifying my tool box
 - 🎯 Looking for a **Data Science internship** (June–September)
 
 ---
